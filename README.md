@@ -1,4 +1,4 @@
-# Flutter Namida Player
+# Flutter Namida 
 
 A lightweight, reusable, and customizable video player package for Flutter.
 
